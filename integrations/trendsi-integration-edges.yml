@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/trendsi/integrations
+- https://n8n.io/integrations/trendsi/
+- https://composio.dev/toolkits/trendsi
+- https://monid.ai/tools/trendsi
+checked:
+- https://composio.dev/toolkits/trendsi
+- https://monid.ai/tools/trendsi
+- https://n8n.io/integrations/trendsi/
+- https://zapier.com/apps/trendsi/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
